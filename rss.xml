@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FazeDesigns]]></title>
         <description><![CDATA[FazeDesigns]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fazedesigns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 23:11:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 23:48:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fazedesigns/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sample Post]]></title>
+            <description><![CDATA[<article><h1>Sample Post</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3316e9c-2637-4a53-a3e2-1e376f1472b3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fazedesigns/sample-post/index.html</link>
+            <guid isPermaLink="false">825517b5-869a-4799-a305-fdcd7950d071</guid>
+            <pubDate>Wed, 30 Dec 2015 23:47:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41dd2419-3e0d-4104-bd51-712347fea2a6.jpg">]]></description>
-            <link>undefined41b70b90-68c7-4da2-8eea-6afc15a85fcd/index.html</link>
+            <link>https://thegrid.ai/fazedesigns/41b70b90-68c7-4da2-8eea-6afc15a85fcd/index.html</link>
             <guid isPermaLink="false">41b70b90-68c7-4da2-8eea-6afc15a85fcd</guid>
             <pubDate>Wed, 30 Dec 2015 23:11:07 GMT</pubDate>
         </item>
