@@ -1,6 +1,6 @@
 name: FazeDesigns
 favicon: null
-layout_spectrum: 0.0735
+layout_spectrum: 0
 typography_spectrum: 0.61954
 title: FazeDesigns
 cta:
@@ -23,7 +23,7 @@ color:
     - '#0d0d17'
     - '#413f4c'
   brandStrength: 0.5
-  lightness: 0.8125
+  lightness: 0.375
   saturation: 0
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
